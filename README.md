@@ -119,10 +119,8 @@ Currently, the application stores all data in memory. This means your library wi
 - Export library as PDF or text file
 - Statistics (total series, completion rate, average rating)
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
-Created by Pallavi190707
+Created by Pallavi Gola
+
